@@ -1,0 +1,29 @@
+table,th,td{
+    border: 1px solid black;
+    border-collapse:collapse ;
+
+}
+table{
+    margin-left: 40px;
+    margin-top: 40px;
+}
+th,td{
+    padding: 4px;
+}
+.lendet{
+    text-align: center;
+    /* padding-left: -127px; */
+    
+}
+.t1{
+    background-color: red;
+}
+.t3{
+    background-color: rgb(228, 167, 114);
+}
+.t5{
+    background-color: greenyellow;
+}
+.t4{
+    background-color: yellow;
+}
